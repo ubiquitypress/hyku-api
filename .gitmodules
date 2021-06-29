@@ -1,3 +1,4 @@
 [submodule "spec/internal_test_hyku"]
 	path = spec/internal_test_hyku
-	url = https://github.com/samvera/hyku.git
+	url = https://github.com/ubiquitypress/hyku_base.git
+	branch = main
